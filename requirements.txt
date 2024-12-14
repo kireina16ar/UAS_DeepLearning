@@ -8,3 +8,4 @@ seaborn
 matplotlib
 scikit-learn
 cv2
+opencv-python-headless
