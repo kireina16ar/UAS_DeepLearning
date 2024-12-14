@@ -1,4 +1,4 @@
-tensorflow==2.10
+tensorflow==2.17.0
 streamlit
 pillow
 numpy
@@ -7,4 +7,3 @@ protobuf==3.20.*
 seaborn
 matplotlib
 scikit-learn
-opencv-python-headless
